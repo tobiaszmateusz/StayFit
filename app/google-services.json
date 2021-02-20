@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "1058086204200",
+    "firebase_url": "https://tswm-v2.firebaseio.com",
+    "project_id": "tswm-v2",
+    "storage_bucket": "tswm-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058086204200:android:5ca660fbb17be92be5d61d",
+        "android_client_info": {
+          "package_name": "com.blackcj.fitdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058086204200-skbs74scbi2tnv9fu7f574lv07bn0lv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackcj.fitdata",
+            "certificate_hash": "53dc321f09444f492cde0cf9d50b722488bc2f23"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAB0SEQ1aOg5nWclm6q3mPIL1Apyowk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058086204200:android:41e8e43ca262ed4ce5d61d",
+        "android_client_info": {
+          "package_name": "com.example.googlefitnessapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058086204200-jqmrrnvuumf0gr9na17rf7o6uorua2ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlefitnessapi",
+            "certificate_hash": "53dc321f09444f492cde0cf9d50b722488bc2f23"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAB0SEQ1aOg5nWclm6q3mPIL1Apyowk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058086204200:android:f3ba6b62b40c4a5fe5d61d",
+        "android_client_info": {
+          "package_name": "com.fitbit.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058086204200-g075cbnfn7qvjoqgfqebi3au9f29kjq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitbit.application",
+            "certificate_hash": "53dc321f09444f492cde0cf9d50b722488bc2f23"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAB0SEQ1aOg5nWclm6q3mPIL1Apyowk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
